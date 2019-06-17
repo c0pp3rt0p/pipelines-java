@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/craigcarrier/craigcarrier/_apis/build/status/c0pp3rt0p.pipelines-java?branchName=master)](https://dev.azure.com/craigcarrier/craigcarrier/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
